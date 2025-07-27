@@ -190,7 +190,7 @@ export default function Home() {
         </section>
         <section className="py-10">
           <div>
-            <h3 className="text-3xl py-1 dark:text-white ">Portofolio</h3>
+            <h3 className="text-3xl py-1 dark:text-white ">Project Saya</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               Sejak Awal SMK saya sudah mulai belajar tentang pemrograman secara
               <span className="text-teal-500"> otodidak</span>. Dan saya juga
